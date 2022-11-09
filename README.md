@@ -10,16 +10,16 @@ CSS3
 JAVASCRIPT
 
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img1.png" >
-    <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img2.png" >
+  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img1.png" >
+    <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img2.png" >
 
-  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img3.png" >
+  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img3.png" >
 
-  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img4.png" >
+  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img4.png" >
 
-  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img5.png" >
+  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img5.png" >
 
-  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website/blob/main/img6.png" >
+  <img src="https://github.com/Gunasaikiran/Sri-kanya_Restaruant_Website.github.io./blob/main/img6.png" >
 
   
 </p>
