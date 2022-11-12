@@ -1,6 +1,8 @@
 # Sri-kanya_Restaruant_Website
 This is a Restaurant Theme Website Template, designed using html , css and javascript.
  "Responsive Web Design project".
+ 
+ To view a Live example <a href="https://gunasaikiran.github.io/Sri-kanya_Restaruant_Website.github.io/">Sri-kanya_Restaruant</a>
 
 Add a Star 🌟 to this 👆 Repository
 
